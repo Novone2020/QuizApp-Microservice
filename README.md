@@ -2,6 +2,14 @@
 
 This repository contains the microservices architecture for a Quiz Application. Each service is contained within its own folder and has its own dependencies and configurations.
 
+# Previous Version
+
+This project is the microservices version of a previous monolithic application I developed. You can check out the monolithic version here.
+
+```bash
+git clone https://github.com/ShubhamSukum/SpringBoot_QuizApp.git
+```
+
 ## Services
 
 - **API Gateway**: The entry point to our application that routes requests to the appropriate microservice.
