@@ -1,6 +1,4 @@
 # Ignore compiled bytecode and IDE-specific files
-*.class
-*.jar
 *.war
 *.ear
 *.log
@@ -8,8 +6,6 @@
 *.ipr
 *.iws
 
-# Ignore target directories
-/target/
 
 # Ignore Eclipse project files
 .classpath
@@ -26,8 +22,6 @@
 .gradle/
 build/
 
-# Ignore Maven build files
-/target/
 *.iml
 
 # Ignore OS-specific files
