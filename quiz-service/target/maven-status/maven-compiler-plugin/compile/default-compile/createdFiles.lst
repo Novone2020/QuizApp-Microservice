@@ -1,0 +1,9 @@
+com\microservice\quizservice\controller\QuizController.class
+com\microservice\quizservice\model\QuizDto.class
+com\microservice\quizservice\service\QuizService.class
+com\microservice\quizservice\model\QuestionWrapper.class
+com\microservice\quizservice\dao\QuizDao.class
+com\microservice\quizservice\QuizServiceApplication.class
+com\microservice\quizservice\model\Response.class
+com\microservice\quizservice\feign\QuizInterface.class
+com\microservice\quizservice\model\Quiz.class
