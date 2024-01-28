@@ -1,0 +1,7 @@
+com\microservice\questionservice\model\Question.class
+com\microservice\questionservice\model\Response.class
+com\microservice\questionservice\service\QuestionService.class
+com\microservice\questionservice\model\QuestionWrapper.class
+com\microservice\questionservice\QuestionServiceApplication.class
+com\microservice\questionservice\controller\QuestionController.class
+com\microservice\questionservice\dao\QuestionDao.class
